@@ -114,7 +114,3 @@ GitHub: [kalyani-jadhav-project](https://github.com/kalyani-jadhav-project)
 
 
 
-
-<img width="1366" height="768" alt="Screenshot 2026-10-10 214216" src="https://github.com/user-attachments/assets/5de34aa2-088d-445a-ade7-51b5b80397cd" />
-<img width="1366" height="768" alt="Screenshot 2026-10-10 214053" src="https://github.com/user-attachments/assets/face856f-d3ca-442f-bc0b-1c188686c7ad" />
-<img width="1366" height="768" alt="Screenshot 2026-10-10 214132" src="https://github.com/user-attachments/assets/6ad26811-1b0a-4c4b-8956-7521fe4b72c1" />
