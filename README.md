@@ -104,7 +104,7 @@ The objective of StudyGenie is to simplify academic planning by helping students
 
 ## 👩‍💻 Author
 
-**Kalyani Radhav**
+**Kalyani Jadhav**
 
 GitHub: [kalyani-jadhav-project](https://github.com/kalyani-jadhav-project)
 
